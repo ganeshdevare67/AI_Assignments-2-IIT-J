@@ -1,0 +1,25 @@
+Using device: cpu
+Starting with 10 Population:
+[Arch(conv=1, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=1, acc=0.0000), Arch(conv=4, acc=0.0000), Arch(conv=3, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=3, acc=0.0000), Arch(conv=2, acc=0.0000), Arch(conv=3, acc=0.0000)]
+
+
+============================================================
+Generation 1/5
+============================================================
+Evaluating architecture 1/10... Fitness: 0.5049, Accuracy: 0.5260
+Evaluating architecture 2/10... Fitness: 0.5563, Accuracy: 0.5670
+Evaluating architecture 3/10... Fitness: 0.5425, Accuracy: 0.5530
+Evaluating architecture 4/10... Fitness: 0.5736, Accuracy: 0.5950
+Evaluating architecture 5/10... Fitness: 0.6132, Accuracy: 0.6240
+Evaluating architecture 6/10... Fitness: 0.5062, Accuracy: 0.5170
+Evaluating architecture 7/10... Fitness: 0.5480, Accuracy: 0.5700
+Evaluating architecture 8/10... Fitness: 0.6442, Accuracy: 0.6560
+Evaluating architecture 9/10... Fitness: 0.5964, Accuracy: 0.6180
+Evaluating architecture 10/10... Fitness: 0.6361, Accuracy: 0.6420
+
+Sorting population in terms of fitness score (high -> low) ...
+Best in generation: Arch(conv=3, acc=0.6560)
+
+Best overall: Arch(conv=3, acc=0.6560)
+
+Performing tournament selection of total population: 10 ...
